@@ -1,4 +1,4 @@
-# 🧠 SkillSense — AI Capability Navigator for Claude
+# <img src="./claude-color.png" width="40" align="center"> SkillSense — AI Capability Navigator for Claude
 
 > **Intent → Decision → Confidence**
 
@@ -76,6 +76,12 @@ SkillSense targets **Claude Power Users & AI Builders** — developers, PMs, and
 2. **Capability Matching** — SkillSense analyzes intent and maps it to the best Claude capability (Skill / Agent / Workflow / Prompt)
 3. **Decision Explanation** — Surfaces *why* a capability fits, with predicted token cost and latency
 4. **Guided Launch** — One-click scaffold to deploy the chosen capability with confidence
+
+---
+
+## 🗺️ User Flow
+
+![SkillSense User Flow](./SkillSense%20%E2%80%94%20User%20Flow%20(styled).png)
 
 ---
 
