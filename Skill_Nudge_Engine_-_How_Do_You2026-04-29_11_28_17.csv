@@ -1,0 +1,75 @@
+﻿"Submission Date","How often do you use Claude for work tasks?","What is your primary work type?","Do you use Claude for repeated or recurring work tasks?","How do you typically reuse prompts for repeated tasks?","How often do you have to re-explain the context or background for a repeated task?","How often do you feel like you're 'starting from zero' when repeating tasks with Claude?","Describe a recent example of a repeated task you used Claude for.","How frustrating is it to repeatedly re-explain context for recurring tasks?","Are you aware of or have you used Claude Skills (reusable workflows/templates)?","What are the main barriers to saving or templating your prompts in Claude?","Which of these would motivate you to convert recurring tasks into reusable Skills?","When would be the ideal moment for Claude to prompt you to save a Skill?","What are your top reasons for converting a task into a Skill?","Would you be willing to spend 5 minutes setting up a Skill if it saves you 2 minutes every time you run it?","How concerned are you that a saved Skill might perform worse than fresh prompting?","How would you feel if Claude proactively suggested saving a repeated task as a Skill?","Is there anything Claude should know about you or how you work before suggesting to save a task as a Skill?"
+"Apr 29, 2026",Weekly,Administrative/Operational,Rarely,"Copy/paste from previous chats",5,4,"Recent dvst project",4,"Yes, I have tried them","Takes too much time","Saves time in the long run","When I create a new prompt","Reduce repetition","Yes, definitely",1,"It depends on timing and context","Claude should know that I prefer simple, clear explanations with practical steps. I like structured responses that I can easily understand and use for presentations or real-world tasks. I also appreciate examples and ready-to-use scripts.”"
+"Apr 29, 2026",Weekly,"Knowledge work (writing, research, analysis)","Yes, occasionally","Save prompts in an external document",2,3,"REPORT MAKING",4,"Yes, I have tried them","I don't repeat tasks often enough","Saves time in the long run
+Reduces errors and inconsistencies","After I've repeated a task several times","Save time
+Ensure consistency","Yes, definitely",4,"I would appreciate the suggestion",1
+"Apr 28, 2026",Rarely,"Creative (design, media, marketing)",Rarely,"Manually retype prompts each time",2,1,"I regularly use Claude to handle customer messages. I paste in a basic reply and ask it to quickly tailor the tone for different customers like making it more friendly, more formal, or more apologetic.",2,"I've heard of them but never used","I don't repeat tasks often enough","Reduces errors and inconsistencies
+Easier to manage and share
+Makes my workflow smoother","When I create a new prompt","Save time
+Reduce repetition","Yes, definitely",4,"It depends on timing and context","Yes, Claude should know I prefer quick, repeatable tasks. If I use something often and it saves time, it’s worth making a Skill"
+"Apr 28, 2026","Several times a week","Knowledge work (writing, research, analysis)","Yes, occasionally","Copy/paste from previous chats",3,2,"For keyword research",3,"Yes, I have tried them","No barrier","Easier to manage and share","After I've repeated a task several times","Save time","Yes, definitely",3,"It depends on timing and context","Umm. Not in my mind now"
+"Apr 28, 2026","Several times a week","Knowledge work (writing, research, analysis)","Yes, occasionally","Copy/paste from previous chats",3,4,A,4,"Yes, I have tried them","Worried about losing flexibility","Reduces errors and inconsistencies","When I create a new prompt","Reduce repetition","Yes, definitely",4,"It depends on timing and context",T
+"Apr 28, 2026",Weekly,"Technical work (coding, data, IT)","Yes, occasionally","Copy/paste from previous chats
+Use Claude's built-in features",3,3,.,3,"I've heard of them but never used","I don't repeat tasks often enough","Saves time in the long run","When I finish a task","Save time
+Reduce repetition","Maybe, depending on the task",3,"It depends on timing and context",.
+"Apr 27, 2026",Daily,"Technical work (coding, data, IT)","Yes, frequently","Manually retype prompts each time",3,3,Na,4,"Yes, I have tried them","I don't repeat tasks often enough","Saves time in the long run
+Makes my workflow smoother","After I've repeated a task several times","Save time
+Reduce repetition
+Easier to share with others","Yes, definitely",4,"I would appreciate the suggestion",Na
+"Apr 27, 2026",Daily,"Technical work (coding, data, IT)","Yes, occasionally","Copy/paste from previous chats",4,4,"Building resume",4,"Yes, I use them regularly","Not aware of the feature
+Takes too much time
+I don't repeat tasks often enough
+Not sure how to set up a Skill
+Worried about losing flexibility","Saves time in the long run","After I've repeated a task several times","Save time","Yes, definitely",5,"I would appreciate the suggestion","I dont want Claude same my data."
+"Apr 25, 2026",Weekly,"Technical work (coding, data, IT)","Yes, frequently","Copy/paste from previous chats
+Save prompts in an external document",4,3,"I was just asking for comparison",4,"I've heard of them but never used","Not aware of the feature","Saves time in the long run
+Reduces errors and inconsistencies
+Easier to manage and share
+Makes my workflow smoother","After I've repeated a task several times","Save time
+Reduce repetition","Maybe, depending on the task",3,"I would appreciate the suggestion","Never tried"
+"Apr 25, 2026","Several times a week","Knowledge work (writing, research, analysis)","Yes, occasionally","Copy/paste from previous chats
+Save prompts in an external document",3,3,"A weekly company-wide newsletter is sent out.  I use Claude to adjust the tone and structure and proofread with saved prompts.",3,"I've heard of them but never used",Confidentiality,"Saves time in the long run
+Reduces errors and inconsistencies
+Makes my workflow smoother","After I've repeated a task several times","Save time
+Reduce repetition
+Easier to share with others","Maybe, depending on the task",3,"It depends on timing and context",N/A
+"Apr 25, 2026","Several times a week",Administrative/Operational,"Yes, occasionally","Copy/paste from previous chats
+Save prompts in an external document",3,3,"A recent repeated task I used Claude for was drafting and refining emails. I regularly needed to write professional emails for different situations, so I used Claude to generate initial drafts, improve wording, and adjust tone.",3,"I've heard of them but never used","I don't repeat tasks often enough","Saves time in the long run
+Reduces errors and inconsistencies
+Easier to manage and share
+Makes my workflow smoother","After I've repeated a task several times","Save time
+Reduce repetition
+Ensure consistency","Maybe, depending on the task",4,"It depends on timing and context","I prefer concise, well-structured, and professional outputs that are ready to use with minimal edits. It’s especially helpful when suggestions are consistent, easy to customize for different roles, and aligned with standard hiring practices and tools like ATS and LinkedIn."
+"Apr 24, 2026","Several times a week","Technical work (coding, data, IT)","Yes, frequently","Copy/paste from previous chats",4,4,"I was building a speaker (diy)
+There i had to keep reminding it if the components i used in the diy, as it hallucinated preety often.",4,"No, I wasn't aware","Not aware of the feature","Saves time in the long run
+Reduces errors and inconsistencies
+Easier to manage and share
+Makes my workflow smoother","After I've repeated a task several times","Save time
+Reduce repetition
+Easier to share with others","Maybe, depending on the task",2,"I would appreciate the suggestion",None
+"Apr 24, 2026",Daily,"Technical work (coding, data, IT)","Yes, frequently","Use Claude's built-in features",4,2,"Generating .json",2,"Yes, I use them regularly","Not sure how to set up a Skill","Saves time in the long run","After I've repeated a task several times","Ensure consistency","Yes, definitely",2,"I would appreciate the suggestion",No
+"Apr 24, 2026",Daily,"Creative (design, media, marketing)","Yes, frequently","Manually retype prompts each time",5,5,"Create Social Media posts",5,"Yes, I have tried them","Takes too much time","Saves time in the long run","After I've repeated a task several times","Save time","Yes, definitely",4,"It depends on timing and context","Don’t use —"
+"Apr 20, 2026",Daily,"Technical work (coding, data, IT)","Yes, frequently","Copy/paste from previous chats",4,4,"UI/UX designing",3,"Yes, I have tried them","Worried about losing flexibility","Reduces errors and inconsistencies","After I've repeated a task several times","Save time
+Ensure consistency","Maybe, depending on the task",4,"I would find it annoying","Not every task can be converted into a skill, every task has some kind of variations it should have a base first and further modifications that can vastly impact the result."
+"Apr 20, 2026",Rarely,"Technical work (coding, data, IT)",Never,"Save prompts in an external document",3,4,"I rarely use it",5,"Yes, I have tried them","Worried about losing flexibility","Saves time in the long run","When I create a new prompt","Save time","Yes, definitely",3,"I would appreciate the suggestion",NA
+"Apr 20, 2026",Rarely,"Knowledge work (writing, research, analysis)",Never,"Copy/paste from previous chats",1,1,"No task has performed as such",1,"No, I wasn't aware","Not sure how to set up a Skill","Saves time in the long run","After I've repeated a task several times","Save time
+Reduce repetition","No, I prefer fresh prompts each time",1,"I would appreciate the suggestion","No at all"
+"Apr 20, 2026","Several times a week","Technical work (coding, data, IT)","Yes, frequently","Manually retype prompts each time",3,3,"I do content writing and research work",4,"I've heard of them but never used","Takes too much time","Reduces errors and inconsistencies","When I create a new prompt","Save time","Yes, definitely",2,"It depends on timing and context","Yaa maybe"
+"Apr 20, 2026",Daily,"Knowledge work (writing, research, analysis)","Yes, frequently","Copy/paste from previous chats
+Manually retype prompts each time",3,3,"I was making a project on financial frauds and had to explain it to the Claude repeatedly.",4,"Yes, I use them regularly","Not aware of the feature
+Takes too much time","Reduces errors and inconsistencies
+Easier to manage and share","When I create a new prompt","Save time
+Reduce repetition
+Ensure consistency","Yes, definitely",2,"I would appreciate the suggestion",No.
+"Apr 19, 2026","Several times a week",Administrative/Operational,"Yes, occasionally","Manually retype prompts each time",3,2,"For answering technical questions for any forms, using it for technical document analysis etc.",2,"I've heard of them but never used","Takes too much time","Reduces errors and inconsistencies","When I create a new prompt","Reduce repetition","Yes, definitely",3,"I would appreciate the suggestion","Yes there could be many things like that profession or purpose does it serve."
+"Apr 19, 2026",Rarely,"Knowledge work (writing, research, analysis)","Yes, occasionally","Copy/paste from previous chats
+Manually retype prompts each time",3,2,NA,4,"No, I wasn't aware","Not aware of the feature","Saves time in the long run
+Reduces errors and inconsistencies
+Makes my workflow smoother","After I've repeated a task several times","Save time
+Reduce repetition
+Ensure consistency","Yes, definitely",4,"I would find it annoying",NA
+"Apr 19, 2026",Rarely,"Knowledge work (writing, research, analysis)",Rarely,"Manually retype prompts each time",1,1,"I never used it",1,"No, I wasn't aware","I don't repeat tasks often enough","Easier to manage and share","When I create a new prompt","Save time","Yes, definitely",3,"It depends on timing and context",No
+"Apr 19, 2026",Weekly,"Knowledge work (writing, research, analysis)",Rarely,"Copy/paste from previous chats
+Manually retype prompts each time",4,4,"For details",3,"I've heard of them but never used","Takes too much time","Makes my workflow smoother","When I finish a task","Ensure consistency","Maybe, depending on the task",4,"It depends on timing and context",Nope
+"Apr 19, 2026",Rarely,"Technical work (coding, data, IT)",Never,"nothing, i use gpt",1,1,"nothing, i use gpt",5,"No, I wasn't aware","nothing, i use gpt","nothing, i use gpt","nothing, i use gpt","Reduce repetition","Yes, definitely",3,"I would find it annoying","nothing, i use gpt"
+"Apr 19, 2026","Several times a week","Knowledge work (writing, research, analysis)","Yes, occasionally","Manually retype prompts each time",3,2,Coding,4,"I've heard of them but never used","I don't repeat tasks often enough","Reduces errors and inconsistencies","When I create a new prompt","Reduce repetition","Yes, definitely",3,"It depends on timing and context","Basic details about the task is enough"
