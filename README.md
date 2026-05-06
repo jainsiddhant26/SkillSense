@@ -34,8 +34,8 @@ As Claude evolves beyond simple prompting, it now enables complex tasks through 
 
 | File | Description |
 |---|---|
-| `NL SkillSense.pdf` | Final 10-slide deck *(uploading manually)* |
-| `Skill_Sense_Survey_Data.xlsx` | Raw survey data *(uploading manually)* |
+| `NL SkillSense.pdf` | Final 10-slide deck |
+| `Skill_Sense_Survey_Data.xlsx` | Raw survey data |
 
 ---
 
