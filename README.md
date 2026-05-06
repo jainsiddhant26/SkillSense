@@ -34,7 +34,8 @@ As Claude evolves beyond simple prompting, it now enables complex tasks through 
 
 | File | Description |
 |---|---|
-| [`NL SkillSense.pdf`](https://drive.google.com/file/d/1Ctzz3-XwvCyjXGYoO_Gde8-JeCDhISqj/view) | Final 10-slide deck (Google Drive) |
+| `NL SkillSense.pdf` | Final 10-slide deck *(uploading manually)* |
+| `Skill_Sense_Survey_Data.xlsx` | Raw survey data *(uploading manually)* |
 
 ---
 
@@ -42,10 +43,11 @@ As Claude evolves beyond simple prompting, it now enables complex tasks through 
 
 | Asset | Link |
 |---|---|
-| 📋 User Research, Interviews & Survey Data | [Notion Page](https://app.notion.com/p/User-Research-Interviews-Survey-Data-SkillSense-3534e0d023c681bc98f7d26899b21fa4) |
+| 📄 Final Deck (PDF) | [Google Drive](https://drive.google.com/file/d/1Ctzz3-XwvCyjXGYoO_Gde8-JeCDhISqj/view) |
+| 📊 Survey Data (Excel) | [Google Drive](https://drive.google.com/file/d/1Ctzz3-XwvCyjXGYoO_Gde8-JeCDhISqj/view) |
+| 📋 User Research, Interviews & Survey Notes | [Notion Page](https://app.notion.com/p/User-Research-Interviews-Survey-Data-SkillSense-3534e0d023c681bc98f7d26899b21fa4) |
 | 🗺️ User Flow (Figma Board) | [Figma](https://www.figma.com/board/Dgr5yNEHNWubyRlllDoKO0/SkillSense-%E2%80%94-User-Flow--styled-?node-id=0-1&p=f&t=MTFlJAODC0ucg4Kc-0) |
 | 🤖 Live Prototype | [bolt.host](https://skillsense-pattern-a-tkx4.bolt.host) |
-| 📄 Final Deck (PDF) | [Google Drive](https://drive.google.com/file/d/1Ctzz3-XwvCyjXGYoO_Gde8-JeCDhISqj/view) |
 
 ---
 
